@@ -20,11 +20,11 @@
   </build>
   		<distributionManagement>
     <snapshotRepository>
-      <id>spring-repository</id>
+      <id>nexus-repo</id>
       <url>http://15.207.221.235:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 	<repository>
-	  <id>spring-repository</id>
+	  <id>nexus-repo</id>
       <url>http://15.207.221.235:8081/repository/maven-releases/</url>
     </repository>
  
